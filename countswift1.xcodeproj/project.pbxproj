@@ -13,6 +13,7 @@
 		3051AD361AEA514600D22D92 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3051AD351AEA514600D22D92 /* Images.xcassets */; };
 		3051AD391AEA514600D22D92 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3051AD371AEA514600D22D92 /* LaunchScreen.xib */; };
 		3051AD451AEA514600D22D92 /* countswift1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3051AD441AEA514600D22D92 /* countswift1Tests.swift */; };
+		3051AD4F1AEA52F700D22D92 /* 背景.png in Resources */ = {isa = PBXBuildFile; fileRef = 3051AD4E1AEA52F700D22D92 /* 背景.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		3051AD3E1AEA514600D22D92 /* countswift1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = countswift1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3051AD431AEA514600D22D92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3051AD441AEA514600D22D92 /* countswift1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countswift1Tests.swift; sourceTree = "<group>"; };
+		3051AD4E1AEA52F700D22D92 /* 背景.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "背景.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		3051AD2B1AEA514600D22D92 /* countswift1 */ = {
 			isa = PBXGroup;
 			children = (
+				3051AD4E1AEA52F700D22D92 /* 背景.png */,
 				3051AD2E1AEA514600D22D92 /* AppDelegate.swift */,
 				3051AD301AEA514600D22D92 /* ViewController.swift */,
 				3051AD321AEA514600D22D92 /* Main.storyboard */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3051AD4F1AEA52F700D22D92 /* 背景.png in Resources */,
 				3051AD341AEA514600D22D92 /* Main.storyboard in Resources */,
 				3051AD391AEA514600D22D92 /* LaunchScreen.xib in Resources */,
 				3051AD361AEA514600D22D92 /* Images.xcassets in Resources */,
