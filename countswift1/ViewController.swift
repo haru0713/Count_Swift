@@ -65,7 +65,6 @@ class ViewController: UIViewController {
             
             label.textColor = UIColor.blackColor()
         }
-        
     
     }
     
