@@ -65,6 +65,7 @@ class ViewController: UIViewController {
             
             label.textColor = UIColor.blackColor()
         }
+        NSLog("hashio kusai")
     
     }
     
